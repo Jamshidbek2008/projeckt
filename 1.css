@@ -1,0 +1,9 @@
+var{
+    width: 400px;
+    height: 400px;
+    color: #fff;
+    margin: 0 auto;
+    background-image: none;
+    background-color: blue;
+    border-radius: 50%;
+}
